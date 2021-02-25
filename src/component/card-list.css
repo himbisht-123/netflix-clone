@@ -1,0 +1,31 @@
+.card-row{
+    display: flex;
+    overflow-y: scroll;
+    overflow-y: scroll;  
+    width: 120vw;
+    /* height: 100%;  */
+    transition: transform 430ms;
+}
+.card-row::-webkit-scrollbar{
+    display: none;
+    scroll-behavior: smooth;
+}
+.card-list{
+       width: 120%;
+    max-height: 600px;
+    padding: 10px;
+    display:flex;
+       
+}
+.card-poster:hover{
+    transform: scale(1.6);
+}
+.card-poster{
+    width:200%;
+    /* height: 210px; */
+   object-fit:contain;
+   justify-content: space-between;
+   max-height: 450px;
+   
+
+}

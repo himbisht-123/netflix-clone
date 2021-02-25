@@ -1,0 +1,26 @@
+.plansScreen{
+    display:flex;
+    justify-content: space-between;
+    /* flex-direction: column; */
+    padding: 0px;
+    opacity: 0.8;
+}
+.plansScreen:hover{
+    opacity: 1;
+
+}
+.plansScreen_info > button {
+    padding: 10px 20px;
+    font-size: 10px;
+    color: #fff;
+    position:relative;
+    /* left: 740px; */
+   
+    /* bottom: 30px; */
+    /* margin-bottom: 60px;   */
+    background-color: #e50914;
+
+}
+.plansScreen_info > button-active{
+    background-color: grey;
+}

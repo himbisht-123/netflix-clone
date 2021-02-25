@@ -1,0 +1,29 @@
+.card-row4{
+    display: flex;
+    overflow-y: scroll;
+    overflow-y: scroll;  
+    width: 130vw; 
+    transition: transform 430ms;
+}
+.card-row4::-webkit-scrollbar{
+    display: none;
+    scroll-behavior: smooth;
+}
+.card-list4{
+       width: 130%;
+    max-height: 500px;
+    padding: 10px;
+    display:flex;
+       
+}
+.card-poster4:hover{
+    transform: scale(1.2);
+}
+.card-poster4{
+    width:180px;
+    height: 210px;
+   object-fit:contain;
+   justify-content: space-between;
+
+
+}

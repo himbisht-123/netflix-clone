@@ -1,0 +1,49 @@
+export const data2=[
+    {
+      id:'11',
+      imageUrl:'https://i.pinimg.com/236x/8e/59/47/8e5947fd1bae4fe1a4579bd2e0c14f11.jpg',
+      movieurl2:'https://www.youtube.com/watch?v=mQj4BkYf-HM'
+    },
+    {
+     id:'12',
+     imageUrl:'https://i.pinimg.com/236x/5c/01/d2/5c01d2380dfec02922f96e39d1d6523d.jpg',
+     movieurl2:'https://www.youtube.com/watch?v=QkT-HIMSrRk'
+
+    },
+    {
+        id:'13',
+        imageUrl:'https://i.pinimg.com/236x/28/08/40/2808408b43d9530fdaf57a99d6fe6c2c.jpg',
+        movieurl2:'https://www.youtube.com/watch?v=ViuDsy7yb8M'
+       },
+       {
+        id:'14',
+        imageUrl:'https://i.pinimg.com/236x/b4/e1/25/b4e12550ccc2878c6e4f95986c2c0d2e.jpg',
+        movieurl2:'https://www.youtube.com/watch?v=cdtUdEoE-Q4'
+       },
+       {
+        id:'15',
+        imageUrl:'https://i.pinimg.com/236x/34/5c/fd/345cfd9835447f91160588f76a78f193.jpg',
+        movieurl2:'https://www.youtube.com/watch?v=J_tGlmHqRC4'
+       },
+       {
+        id:'16',
+        imageUrl:'https://i.pinimg.com/236x/b3/ce/74/b3ce74a6119e3c2c14cc521e7b2d62de.jpg',
+        movieurl2:'https://www.youtube.com/watch?v=Ab2YIbP5xw8'
+       },
+       {
+        id:'17',
+        imageUrl:'https://i.pinimg.com/236x/ba/9a/d1/ba9ad1f2f2aa5161a7f83de44b72c209.jpg',
+        movieurl2:'https://www.youtube.com/watch?v=Gpa5S8DgPzs'
+       },
+       {
+        id:'18',
+        imageUrl:'https://i.pinimg.com/236x/db/72/2f/db722f8893ca761f68e7e53aebd3402e.jpg',
+        movieurl2:'https://www.youtube.com/watch?v=YRSBiTF3wNw'
+       },
+       {
+        id:'19',
+        imageUrl:'https://i.pinimg.com/236x/fb/8c/1a/fb8c1a418bbe457e138092f35ba3a509.jpg',
+         movieurl2:'https://www.youtube.com/watch?v=NfpXeLVzJIw'
+       },
+];
+ 
